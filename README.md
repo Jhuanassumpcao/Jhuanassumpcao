@@ -13,7 +13,7 @@ Meu nome é Jhuan Assumpção, tenho 20 anos e moro em Santa Maria/RS. Desde qua
 ## Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/jhuan-luis-almeida-assumpcao-650469229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jhuan-assump%C3%A7%C3%A3o-650469229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:jlassumpcao@inf.ufsm.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
