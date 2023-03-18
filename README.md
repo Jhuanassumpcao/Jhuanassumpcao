@@ -15,7 +15,7 @@ Visite meu site aqui 💻: https://jhuanassumpcao.github.io/Portfolio/
 ## Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/jhuan-assump%C3%A7%C3%A3o-650469229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jhuanassumpcao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:jlassumpcao@inf.ufsm.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
