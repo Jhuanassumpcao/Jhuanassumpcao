@@ -1,5 +1,5 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil do GitHub.
-Meu nome é Jhuan Assumpção, tenho 20 anos e moro em Santa Maria/RS. Desde quando entrei na faculdade de Ciência da Computação venho aprimorando minhas habilidades em programação, com ênfase em Full-Stack. Atualmente aprimoro minhas habilidades em AdonisJs e VueJs. Obrigado por visitar o meu perfil! 
+Meu nome é Jhuan Assumpção, tenho 21 anos e moro em Santa Maria/RS. Desde quando entrei na faculdade de Ciência da Computação venho aprimorando minhas habilidades em programação, com ênfase em Full-Stack. Atualmente aprimoro minhas habilidades em AdonisJs e VueJs. Obrigado por visitar o meu perfil! 
 👋
 
 Visite meu site aqui 💻: https://jhuanassumpcao.github.io/Portfolio/
