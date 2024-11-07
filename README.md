@@ -2,6 +2,8 @@
 Meu nome é Jhuan Assumpção, tenho 21 anos e moro em Santa Maria/RS. Desde quando entrei na faculdade de Ciência da Computação venho aprimorando minhas habilidades em programação, com ênfase em Full-Stack. Atualmente aprimoro minhas habilidades em AdonisJs e VueJs. Obrigado por visitar o meu perfil! 
 👋
 
+Meu portfolio: https://jhuanassumpcao.github.io/Portfolio/
+
 ## Tecnologias e Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
